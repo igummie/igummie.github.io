@@ -6,6 +6,11 @@
   <link>http://averagefriends.me</link>
   <description>Game Developers and Community</description>
   <item>
+    <title>RSS Update 1</title>
+    <link>http://averagefriends.me/rss</link>
+    <description>Testing RSS Bot</description>
+  </item>
+  <item>
     <title>Average Friends Projects</title>
     <link>http://averagefriends.me/projects</link>
     <description>Our Projects</description>
