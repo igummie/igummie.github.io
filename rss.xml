@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<atom:link href="http:/averagefriends.me/rss.xml" rel="self" type="application/rss+xml" />
 
 <channel>
   <title>Average Friends Feed</title>
@@ -17,7 +18,7 @@
   </item>
   <item>
     <title>Average Friends Home</title>
-    <link>averagefriends.me/home</link>
+    <link>http://averagefriends.me/home</link>
     <description>Our home page</description>
   </item>
 </channel>
