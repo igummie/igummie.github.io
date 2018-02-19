@@ -2,18 +2,18 @@
 <rss version="2.0">
 
 <channel>
-  <title>W3Schools Home Page</title>
-  <link>https://www.w3schools.com</link>
-  <description>Free web building tutorials</description>
+  <title>Average Friends Feed</title>
+  <link>http://averagefriends.me</link>
+  <description>Game Developers and Community</description>
   <item>
-    <title>RSS Tutorial</title>
-    <link>https://www.w3schools.com/xml/xml_rss.asp</link>
-    <description>New RSS tutorial on W3Schools</description>
+    <title>Average Friends Projects</title>
+    <link>http://averagefriends.me/projects</link>
+    <description>Our Projects</description>
   </item>
   <item>
-    <title>XML Tutorial</title>
-    <link>https://www.w3schools.com/xml</link>
-    <description>New XML tutorial on W3Schools</description>
+    <title>Average Friends Home</title>
+    <link>averagefriends.me/home</link>
+    <description>Our home page</description>
   </item>
 </channel>
 
