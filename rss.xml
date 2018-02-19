@@ -7,7 +7,12 @@
   <link>http://averagefriends.me</link>
   <description>Game Developers and Community</description>
   <item>
-    <title>RSS Update 1</title>
+    <title>RSS Test 2</title>
+    <link>http://averagefriends.me/rss</link>
+    <description>Testing RSS Bot Time Changed 3:46 PM</description>
+  </item>
+  <item>
+    <title>RSS Test 1</title>
     <link>http://averagefriends.me/rss</link>
     <description>Testing RSS Bot</description>
   </item>
