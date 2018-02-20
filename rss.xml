@@ -7,54 +7,9 @@
   <link>http://averagefriends.me</link>
   <description>Game Developers and Community</description>
   <item>
-    <title>RSS Test 8</title>
+    <title>RSS Test 9</title>
     <link>http://averagefriends.me/rss</link>
-    <description>Testing RSS Bot Time Changed 11:07 AM</description>
-  </item>
-  <item>
-    <title>RSS Test 7</title>
-    <link>http://averagefriends.me/rss</link>
-    <description>Testing RSS Bot Time Changed 10:54 AM</description>
-  </item>
-  <item>
-    <title>RSS Test 6</title>
-    <link>http://averagefriends.me/rss</link>
-    <description>Testing RSS Bot Time Changed 10:22 AM</description>
-  </item>
-  <item>
-    <title>RSS Test 5</title>
-    <link>http://averagefriends.me/rss</link>
-    <description>Testing RSS Bot Time Changed 4:32 PM</description>
-  </item>
-  <item>
-    <title>RSS Test 4</title>
-    <link>http://averagefriends.me/home</link>
-    <description>Testing RSS Bot Time Changed 4:21 PM</description>
-  </item>
-  <item>
-    <title>RSS Test 3</title>
-    <link>http://averagefriends.me/rss</link>
-    <description>Testing RSS Bot Time Changed 4:03 PM</description>
-  </item>
-  <item>
-    <title>RSS Test 2</title>
-    <link>http://averagefriends.me/rss</link>
-    <description>Testing RSS Bot Time Changed 3:46 PM</description>
-  </item>
-  <item>
-    <title>RSS Test 1</title>
-    <link>http://averagefriends.me/rss</link>
-    <description>Testing RSS Bot</description>
-  </item>
-  <item>
-    <title>Average Friends Projects</title>
-    <link>http://averagefriends.me/projects</link>
-    <description>Our Projects</description>
-  </item>
-  <item>
-    <title>Average Friends Home</title>
-    <link>http://averagefriends.me/home</link>
-    <description>Our home page</description>
+    <description>Wipped all previous tests to retest structure 12:28 pm</description>
   </item>
 </channel>
 
