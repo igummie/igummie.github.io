@@ -7,16 +7,9 @@
   <link>http://averagefriends.me</link>
   <description>Game Developers and Community</description>
   <item>
-    <title>
-     RSS Test 9
-    </title>
-    <link>
-     http://averagefriends.me/rss
-    </link>
-    <description>
-    Wipped all previous tests to retest structure 12:28 pm
-    </description>
+    <title>RSS Test 9</title>
+    <link>http://averagefriends.me/rss</link>
+	<description>Wipped all previous tests to retest structure 12:28 pm</description>
   </item>
 </channel>
-
 </rss>
