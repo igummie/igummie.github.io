@@ -4,12 +4,19 @@
 
 <channel>
   <title>Average Friends Feed</title>
-  <link>https://www.youtube.com/watch?v=dQw4w9WgXcQ</link>
+  <link>http://averagefriends.me</link>
   <description>Game Developers and Community</description>
   <item>
+    <title>RSS Test 13 ~ Messing with rss structure</title>
+    <link>https://www.youtube.com/watch?v=g1p5eNOsl7I</link>
+	<description>changing rss structure to have guid 5:01 pm</description>
+	<guid isPermaLink="true">https://www.youtube.com/watch?v=g1p5eNOsl7I</guid>
+  </item>
+  <item>
     <title>RSS Test 12 ~ Back To Old</title>
-    <link>http://averagefriends.me/rss</link>
+    <link>https://www.youtube.com/watch?v=dQw4w9WgXcQ</link>
 	<description>found problem with old code switching back 4:53 pm</description>
+	<guid isPermaLink="true">https://www.youtube.com/watch?v=dQw4w9WgXcQ</guid>
   </item>
   <item>
     <title>RSS Test 11 ~ New Bot/Code</title>
