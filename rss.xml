@@ -3,13 +3,13 @@
 
 <channel>
 	<title>Average Friends Feed</title>
-	<link>http://averagefriends.me</link>
+	<link>http://averagefriends.me/</link>
 	<description>Game Developers and Community</description>
 	<item>
-		<title>RSS Test 14 ~ wiped feed and changed tabs/spaces</title>
-		<link>https://www.youtube.com/watch?v=g1p5eNOsl7I</link>
-		<description>Wiped all of testing and changed tabs/spaces</description>
-		<guid>https://www.youtube.com/watch?v=g1p5eNOsl7I</guid>
+		<title>I WANT THIS TO WORK</title>
+		<link>https://youtu.be/g1p5eNOsl7I</link>
+		<description>please work</description>
+		<guid>https://youtu.be/g1p5eNOsl7I</guid>
 	</item>
 </channel>
 </rss>
