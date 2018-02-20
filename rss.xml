@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 
 
 <channel>
   <title>Average Friends Feed</title>
-  <link>http://averagefriends.me</link>
+  <link>https://www.youtube.com/watch?v=dQw4w9WgXcQ</link>
   <description>Game Developers and Community</description>
+  <item>
+    <title>RSS Test 12 ~ Back To Old</title>
+    <link>http://averagefriends.me/rss</link>
+	<description>found problem with old code switching back 4:53 pm</description>
+  </item>
   <item>
     <title>RSS Test 11 ~ New Bot/Code</title>
     <link>http://averagefriends.me/rss</link>
