@@ -9,7 +9,7 @@
 		<title>RSS Test 14 ~ wiped feed and changed tabs/spaces</title>
 		<link>https://www.youtube.com/watch?v=g1p5eNOsl7I</link>
 		<description>Wiped all of testing and changed tabs/spaces</description>
-		<guid isPermaLink="true">https://www.youtube.com/watch?v=g1p5eNOsl7I</guid>
+		<guid>https://www.youtube.com/watch?v=g1p5eNOsl7I</guid>
 	</item>
 </channel>
 </rss>
