@@ -19,6 +19,7 @@ return array(
         'analytics.inc',
         'header.php',
         'footer.php'
+		'*.html'
     ),
 
     // If set to 'true' an directory with an index file (as defined below) will
