@@ -47,21 +47,15 @@
 	 // Opens directory
 	 $myDirectory=opendir(".");
 
-	// opens this directory
-			$myDirectory = opendir(".");
-			
-			// set forbidden files
-			$forbiddenExts = array("php", "ico", "html");
-			
-			// gets each entry
-			while($entryName = readdir($myDirectory)) {
-				if (is_file($entryName)) {
-					$exts = explode(".", $entryName);
-					if(!in_array($exts[1],$forbiddenExts)) { 
-						$dirArray[] = $entryName;
-					}
-				}
-			}
+	// Gets each entry
+	
+	while($entryName = readdir($myDirectory)) { 
+	$exts = explode(".", $entryName);
+		if(!in_array($exts[1],$forbiddenExts)) { 
+			$dirArray[] = $entryName;
+		}
+	}
+
 
 	// Closes directory
 	closedir($myDirectory);
