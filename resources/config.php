@@ -19,7 +19,7 @@ return array(
         'analytics.inc',
         'header.php',
         'footer.php'
-		'*.png'
+        '*.png'
     ),
 
     // If set to 'true' an directory with an index file (as defined below) will
