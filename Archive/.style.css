@@ -133,7 +133,7 @@ table tr td:first-of-type a[href$=".ogg"],
 table tr td:first-of-type a[href$=".aac"], 
 table tr td:first-of-type a[href$=".wma"] 
 {background-image: url(./.images/audio.png);}
-a href='$dirArray[$index]'
+
 /* web pages */
 table tr td:first-of-type a[href$=".html"],
 table tr td:first-of-type a[href$=".htm"],
