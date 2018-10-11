@@ -39,7 +39,7 @@
 	 $ahref="./";
 	 $atext="Hide";}
 	else
-	{$hide="index";
+	{$hide=".";
 	 $ahref="./?hidden";
 	 $atext="Show";}
 
