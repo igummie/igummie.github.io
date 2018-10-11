@@ -100,11 +100,7 @@
 						$extn="&lt;Website&gt;";
 					}
 
-			// Cleans up . and .. directories
-				if($name=="."){$name=". (Current Directory)"; $extn="&lt;System Dir&gt;"; $favicon=" style='background-image:url($namehref/.favicon.ico);'";}
-				if($name==".."){$name=".. (Parent Directory)"; $extn="&lt;System Dir&gt;";}
-				if($name=="index.php"){$name="index"; $extn="&lt;System Dir&gt;";}
-		}
+			
 
 	// File-only operations
 		else{
