@@ -6,7 +6,7 @@
    <title>Directory Contents</title>
 
    <link rel="stylesheet" href="./style.css">
-   <script src="./sorttable.js"></script>
+   <script src="./	sorttable.js"></script>
 </head>
 
 <body>
@@ -47,10 +47,21 @@
 	 // Opens directory
 	 $myDirectory=opendir(".");
 
-	// Gets each entry
-	while($entryName=readdir($myDirectory)) {
-	   $dirArray[]=$entryName;
-	}
+	// opens this directory
+			$myDirectory = opendir(".");
+			
+			// set forbidden files
+			$forbiddenExts = array("php", "ico", "html");
+			
+			// gets each entry
+			while($entryName = readdir($myDirectory)) {
+				if (is_file($entryName)) {
+					$exts = explode(".", $entryName);
+					if(!in_array($exts[1],$forbiddenExts)) { 
+						$dirArray[] = $entryName;
+					}
+				}
+			}
 
 	// Closes directory
 	closedir($myDirectory);
