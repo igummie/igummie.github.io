@@ -39,10 +39,10 @@
 	 $ahref="./";
 	 $atext="Hide";}
 	else
-	{$hide= array(".", "index", "sorttable", "style");
+	{$hide="index";
 	 $ahref="./?hidden";
 	 $atext="Show";}
-	 
+
 
 	 // Opens directory
 	 $myDirectory=opendir(".");
