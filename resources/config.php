@@ -23,7 +23,10 @@ return array(
 		'*.css',
 		'*.json',
 		'*.md',
-		'*.xml'
+		'*.xml',
+		'*.map',
+		'CNAME',
+		'Procfile'
     ),
 
     // If set to 'true' an directory with an index file (as defined below) will
