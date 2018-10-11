@@ -18,8 +18,12 @@ return array(
         'resources/*',
         'analytics.inc',
         'header.php',
-        'footer.php'
-        '*.png'
+        'footer.php',
+		'*.html',
+		'*.css',
+		'*.json',
+		'*.md',
+		'*.xml'
     ),
 
     // If set to 'true' an directory with an index file (as defined below) will
