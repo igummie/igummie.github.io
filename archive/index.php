@@ -38,14 +38,11 @@
 	{$hide="";
 	 $ahref="./";
 	 $atext="Hide";}
-	elseif
+	else
 	{$hide=".";
 	 $ahref="./?hidden";
 	 $atext="Show";}
-	else
-	{$hide="";
-	 $ahref="index.php";
-	 $atext="Hide";}
+	 
 
 	 // Opens directory
 	 $myDirectory=opendir(".");
@@ -106,6 +103,7 @@
 			// Cleans up . and .. directories
 				if($name=="."){$name=". (Current Directory)"; $extn="&lt;System Dir&gt;"; $favicon=" style='background-image:url($namehref/.favicon.ico);'";}
 				if($name==".."){$name=".. (Parent Directory)"; $extn="&lt;System Dir&gt;";}
+				if($name=="index.php"){$name="index"; $extn="&lt;System Dir&gt;";}
 		}
 
 	// File-only operations
