@@ -19,8 +19,7 @@ return array(
         'analytics.inc',
         'header.php',
         'footer.php'
-		'*.css'
-		'*.json'
+		'*.png'
     ),
 
     // If set to 'true' an directory with an index file (as defined below) will
@@ -47,7 +46,7 @@ return array(
     ),
 
     // Allow to download directories as zip files
-    'zip_dirs' => false,
+    'zip_dirs' => true,
 
     // Stream zip file content directly to the client,
     // without any temporary file
