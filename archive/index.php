@@ -42,6 +42,10 @@
 	{$hide=".";
 	 $ahref="./?hidden";
 	 $atext="Show";}
+	elseif
+	{$hide="";
+	 $ahref="index.php";
+	 $atext="Hide";}
 
 	 // Opens directory
 	 $myDirectory=opendir(".");
