@@ -38,11 +38,11 @@
 	{$hide="";
 	 $ahref="./";
 	 $atext="Hide";}
-	else
+	elseif
 	{$hide=".";
 	 $ahref="./?hidden";
 	 $atext="Show";}
-	elseif
+	else
 	{$hide="";
 	 $ahref="index.php";
 	 $atext="Hide";}
